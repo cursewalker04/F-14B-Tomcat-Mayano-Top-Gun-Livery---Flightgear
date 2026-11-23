@@ -24,3 +24,6 @@ A custom fan-made orange camouflage livery for the **Grumman F-14B Tomcat** in *
 3. Copy or merge the `Liveries` folder from this repository directly into `Aircraft/f-14b/Models/` so the path looks like:
    ```text
    Aircraft/f-14b/Models/Liveries/
+
+![Mayano Top Gun F-14B Side View](swappy-20261124-005151.png)
+![Mayano Top Gun F-14B Full View](swappy-20261124-005141.png)
